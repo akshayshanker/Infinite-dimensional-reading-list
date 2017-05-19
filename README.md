@@ -1,6 +1,6 @@
 # Infinite-dimensional-reading-list
 
-This is a list of papers with models that track an infinite dimensional distribution through time. 
+This is a list of economics papers with models that track an infinite dimensional distribution through time. 
 
 The focus is mostly on heterogeneous agent models, models of industry dynamics, endogenous growth models or search models. Standard stochastic growth or asset pricing models are generally excluded unless particularly interesting. 
 
