@@ -25,7 +25,7 @@ Most papers are from 2012 and from the following journals:
 The list contains paper title, authors, date, the type of infinite dimensional distribution (e.g. wealth distribution) and in many cases, 
 a summary of the contribution. 
 
-Additions of good papers to the reading list and amendments to summaries of contribution are encouraged. 
+Additions of good papers to the reading list and amendments to summaries of contribution are welcome. 
 
 Thank you to John Stachurski for supporting the project. 
 
